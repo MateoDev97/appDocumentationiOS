@@ -17,6 +17,11 @@ Select the desired location, for example documents and create the project
 
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/23aaf577-2158-4ae5-815d-2791c5cebb96" />
 
+### Common folder
+
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/f1b4dd18-572c-4974-881e-4359120dcce1" />
+
+
 
 
 
